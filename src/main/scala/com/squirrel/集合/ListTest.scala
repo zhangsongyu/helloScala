@@ -18,5 +18,6 @@ object ListTest {
   while(it0.hasNext)
   println(  it0.next())
     ListTest say "scala"
+
   }
 }

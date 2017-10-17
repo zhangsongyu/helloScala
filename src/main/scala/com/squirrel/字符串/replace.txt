@@ -1,0 +1,37 @@
+
+hello { name} {age } { sex }
+I am {mine}
+hello { name} {age } { sex }
+I am {mine}
+hello { name} {age } { sex }
+I am {mine}
+hello { name} {age } { sex }
+I am {mine}
+hello { name} {age } { sex }
+I am {mine}
+hello { name} {age } { sex }
+I am {mine}
+hello { name} {age } { sex }
+I am {mine}
+hello { name} {age } { sex }
+I am {mine}hello { name} {age } { sex }
+           I am {mine}hello { name} {age } { sex }
+                      I am {mine}hello { name} {age } { sex }
+                                 I am {mine}hello { name} {age } { sex }
+                                            I am {mine}hello { name} {age } { sex }
+                                                       I am {mine}hello { name} {age } { sex }
+                                                                  I am {mine}hello { name} {age } { sex }
+                                                                             I am {mine}hello { name} {age } { sex }
+                                                                                        I am {mine}hello { name} {age } { sex }
+                                                                                                   I am {mine}hello { name} {age } { sex }
+                                                                                                              I am {mine}hello { name} {age } { sex }
+                                                                                                                         I am {mine}hello { name} {age } { sex }
+                                                                                                                                    I am {mine}hello { name} {age } { sex }
+                                                                                                                                               I am {mine}hello { name} {age } { sex }
+                                                                                                                                                          I am {mine}hello { name} {age } { sex }
+                                                                                                                                                                     I am {mine}hello { name} {age } { sex }
+                                                                                                                                                                                I am {mine}hello { name} {age } { sex }
+                                                                                                                                                                                           I am {mine}hello { name} {age } { sex }
+                                                                                                                                                                                                      I am {mine}hello { name} {age } { sex }
+                                                                                                                                                                                                                 I am {mine}hello { name} {age } { sex }
+                                                                                                                                                                                                                            I am {mine}

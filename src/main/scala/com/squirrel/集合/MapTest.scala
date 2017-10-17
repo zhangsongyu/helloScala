@@ -1,5 +1,10 @@
 package com.squirrel.集合
 
+import com.cache.Cache
+
+import scala.collection.JavaConverters._
+import scala.collection.mutable
+
 /**
   * Created by Administrator on 2017/9/1.
   */
@@ -34,10 +39,34 @@ object Test1 {
     //  ++ 作为运算符
     var colors = colors1 ++ colors2
     println( "colors1 ++ colors2 : " + colors )
+    println(colors get "red" get)
+    println(colors("red"))
 
     //  ++ 作为方法
     colors = colors1.++(colors2)
+    println(colors+("bai"->"000"))
     println( "colors1.++(colors2)) : " + colors )
 
+    var map=mutable.Map("a"->1,"b"->2)
+    map+=("b"->3)
+    println(map)
+
   }
+}
+
+object TestMap1 extends App{
+  var mm=mutable.HashMap("a"->1)
+  mm.update("a",2)
+
+    mm.get("sdfs")
+  println(mm)
+
+
+
+
+   var m1:mutable.HashMap[String,Any]= mutable.HashMap.empty
+
+
+
+m1.put("d", List(1,2,3))
 }
